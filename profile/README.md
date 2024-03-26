@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 Hello there! Thank you for your interest in Inoshift.
 
 Who are we?
